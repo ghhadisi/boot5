@@ -80,6 +80,11 @@
         </dependency>
         <!--**********************************Spring Boot 支持 JSP****************-->
 
+
+    <!--    <dependency>
+            <groupId>com.hss</groupId>
+            <artifactId>starter</artifactId>
+        </dependency>-->
     </dependencies>
 
     <build>
