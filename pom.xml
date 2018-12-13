@@ -79,6 +79,16 @@
             <scope>provided</scope>
         </dependency>
         <!--**********************************Spring Boot 支持 JSP****************-->
+<!--*******************************lombok 实体的动态添加构造函数、Getter/Setter方法、toString方法************************-->
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+<!--
+            <version>1.16.16</version>
+-->
+
+        </dependency>
+        <!--*******************lombok 实体的动态添加构造函数、Getter/Setter方法、toString方法************************************-->
 
     </dependencies>
 
