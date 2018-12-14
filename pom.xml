@@ -80,6 +80,14 @@
         </dependency>
         <!--**********************************Spring Boot 支持 JSP****************-->
 
+
+        <!--***************lombok  getter/setter/toString等方法的编写**************************-->
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+        </dependency>
+        <!--***************lombok**************************-->
+
     </dependencies>
 
     <build>
